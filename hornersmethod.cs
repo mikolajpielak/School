@@ -36,7 +36,7 @@ namespace hornersmethod
                 Console.Write(c - 1 - i);
             }
             Console.WriteLine();
-            Console.WriteLine("Reminder is:");
+            Console.WriteLine("Remainder is:");
             Console.WriteLine(b[c]);
         }
     }
